@@ -1,0 +1,4 @@
+com\revature\integrationTesting\AppointmentIntegrationTests.class
+com\revature\G1AppointmentServiceApplicationTests.class
+com\revature\controllerTest\AppointmentControllerTest.class
+com\revature\serviceImplTest\AppointmentServiceImplTest.class
